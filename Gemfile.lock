@@ -1,0 +1,10 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    apns (1.0.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  apns (= 1.0.0)
